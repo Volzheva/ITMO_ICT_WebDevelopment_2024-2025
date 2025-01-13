@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad296b26-e707-457b-b701-223ebb0f7ca1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/documentation/site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab1/task_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab1/task_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab1/task_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab1/task_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab1/task_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab1/task_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab1/task_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab1/task_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab1/task_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab1/task_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/lab2/task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/lab2/task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/site/search/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/site/search/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_works/Volzheva Maria/Lab_2/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_works/Volzheva Maria/Lab_2/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JupyterTrust" id="5383620a-7014-4415-82ea-124cad4bc428" />
+  <component name="ProjectId" id="2ml2h8Ugrfwn5RYjsv3VpTkKi6x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laboratory_works/Volzheva Maria/Lab_2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Studying ITMO\WEB\ITMO_ICT_WebDevelopment_2024-2025\students\k3341\Volzheva_Maria\documentation\docs\lab2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.http_server">
+    <configuration name="client_math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Volzheva_Maria" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Task 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Task 2/client_math.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Volzheva_Maria" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Task 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Task 3/http_message.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Volzheva_Maria" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Task 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Task 5/http_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Volzheva_Maria" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Task 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Task 4/server_chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Volzheva_Maria" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Task 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Task 4/user_chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.http_server" />
+        <item itemvalue="Python.user_chat" />
+        <item itemvalue="Python.server_chat" />
+        <item itemvalue="Python.http_message" />
+        <item itemvalue="Python.client_math" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad296b26-e707-457b-b701-223ebb0f7ca1" name="Default Changelist" comment="" />
+      <created>1727636959119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727636959119</updated>
+      <workItem from="1733731823585" duration="12347000" />
+      <workItem from="1734210810961" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1734211435722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1734211435722" />
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1733777653268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1733777653268" />
+    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1733777653268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1733777653268" />
+    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1733777653267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1733777653267" />
+    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1733777653268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1733777653268" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1727640465188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1727640465188" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$server_math.coverage" NAME="server_math Coverage Results" MODIFIED="1733732020815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 2" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1733748225324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 5" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$1_1.coverage" NAME="1_1 Coverage Results" MODIFIED="1733731936997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../Programming/ALGORITMS/Lab_0" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$http_message.coverage" NAME="http_message Coverage Results" MODIFIED="1733732088303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 3" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$server_chat.coverage" NAME="server_chat Coverage Results" MODIFIED="1733740677654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 4" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$server_hello.coverage" NAME="server_hello Coverage Results" MODIFIED="1733731945100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 1" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$client_math.coverage" NAME="client_math Coverage Results" MODIFIED="1733732025275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 2" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$user_chat.coverage" NAME="user_chat Coverage Results" MODIFIED="1733740683799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 4" />
+    <SUITE FILE_PATH="coverage/Volzheva_Maria$client_hello.coverage" NAME="client_hello Coverage Results" MODIFIED="1733731949319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_1/Task 1" />
+  </component>
+</project>
